@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.image('C:\stremrit\projectknn\pic\421525287_757613326296074_2482593574861804964_n.jpg')
+st.image('.\pic\421525287_757613326296074_2482593574861804964_n.jpg')
 col1, col2 = st.columns(2)
 with col1:
   st.header('ไก้รุ่ง เฮงพระพรหม')
